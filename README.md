@@ -1,25 +1,7 @@
 mprdemo
 ==============
 
-This project demonstrates stepwise migration of Vaadin 8 to Vaadin 13 using
-Multi Platform Runtime product. 
-
-The master branch is the Vaadin 8 app.
-
-The migration steps are in branches mpr-x
-
-Step 1
-
-Take MPR into use.
-
-Step 2
-
-Change TabSheet component to Vaadin 13 AppLayout component and refactor
-UI to wrap Video, Spreadsheet and Chart.
-
-Step 3
-
-Change legacy Chart component to new version.
+Branch v7 contains a Vaadin 14 beta 2 application with mpr-v7 and a Vaadin 7 Spreadsheet.
 
 
 Workflow
